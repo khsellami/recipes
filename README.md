@@ -67,20 +67,8 @@ Our editorial team follows strict guidelines to ensure accuracy, clarity, and us
 
 ---
 
-## Contact
-
-We love hearing from our readers!  
-Email: **hello@simplyrecipes.com**
-
----
-
 ## License
 
 This project is for educational purposes. Please check with the repository owner for licensing details.
 
----
-
-## Credits
-
-Inspired by [Simply Recipes](https://www.simplyrecipes.com/).  
 Developed by [khsellami](https://github.com/khsellami)
